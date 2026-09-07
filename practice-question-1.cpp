@@ -2,6 +2,8 @@
 
 using namespace std;
 
+// program to calculate sum, products and difference or two numbers
+
 int c= 53 ;
 
 int main()
