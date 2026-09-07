@@ -4,8 +4,6 @@ using namespace std;
 
 // program to calculate sum, products   and difference of two numbers//
 
-int c= 53 ;
-
 int main()
 {
 int a ,b ;
